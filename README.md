@@ -5,7 +5,7 @@ A Ph.D. student at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of
 
 - 🔭 I’m currently working on [CVIP](http://cvip.inha.ac.kr/) Laboratory in Incheon
 - 🌱 I’m currently researching  __Deep Metric Learning__ and __Video Emotion Recognition__
-- 👯 I’m looking to collaborate on the people who want to make fancy meural system!
+- 👯 I’m looking to collaborate on the people who want to make fancy neural system!
 - 📫 Contact me: <a href="mailto:kdhht5022@gmail.com"><code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24"/></code></a>
 
 <a href="https://github.com/kdhht2334"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kdhht2334&count_private=true&show_icons=true"/></a>
