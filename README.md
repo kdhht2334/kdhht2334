@@ -1,6 +1,6 @@
 ### Hi there I'm [Dae Ha Kim](https://kdhht2334.github.io)👋
 
-A Ph.D. student at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
+A Ph.D. candidate at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
 
 - 🔭 I’m currently working on [CVIP](http://cvip.inha.ac.kr/) Laboratory.
