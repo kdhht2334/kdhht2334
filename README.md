@@ -1,4 +1,4 @@
-### Hi there I'm [Dae Ha Kim](https://kdhht2334.github.io)👋
+### Hi there I'm [Daeha Kim](https://kdhht2334.github.io)👋
 
 A Ph.D. candidate at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
