@@ -3,8 +3,7 @@
 A Ph.D at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
 
-- 🔭 I’m currently working on [CVIP](http://cvip.inha.ac.kr/) Laboratory.
-- 🌱 I’m currently researching __Facial Expression Recognition__, __Image generation using GANs__, and __Deep Metric Learning__.
+- 🌱 I’m currently researching __Facial Expression Recognition__, __Facial Expression Manipulation__, and __Image-to-Image Translation__.
 - ⚡ I’m looking to collaborate on the people who want to make fancy neural system!
 - 📫 Contact me: <a href="mailto:kdhht5022@gmail.com"><code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24"/></code></a>
 
