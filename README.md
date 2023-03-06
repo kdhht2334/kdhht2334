@@ -1,7 +1,6 @@
 ### Hi there I'm [Daeha Kim](https://kdhht2334.github.io)👋
 
-A Ph.D at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
-
+<! --PhD in Facial Expression Recognition at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷 -->
 
 - 🌱 I’m currently researching __Facial Expression Recognition__, __Facial Expression Manipulation__, and __Privacy-aware Expression Recognition (or Manipulation)__.
 - ⚡ I’m looking to collaborate on the people who want to make fancy neural system!
