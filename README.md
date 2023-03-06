@@ -5,7 +5,7 @@
 - ⚡ I’m looking to collaborate on the people who want to make fancy neural system!
 - 📫 Contact me: <a href="mailto:kdhht5022@gmail.com"><code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24"/></code></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdhht2334&count_bg=%233DC8AC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdhht2334&langs_count=8)](https://github.com/kdhht2334/github-readme-stats)
 
 <!--
 **kdhht2334/kdhht2334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
