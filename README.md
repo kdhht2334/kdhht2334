@@ -1,6 +1,6 @@
 ### Hi there I'm [Daeha Kim](https://kdhht2334.github.io)👋
 
-- 🌱 I’m currently developing __interactive Human-AI framework__.
+- 🌱 I’m currently developing __Emotional AI Framework for Human-AI Interaction__.
 - ⚡ My research interests are facial expression recognition, image generation via diffusion models, and large language models (LLMs).
 - 📫 Contact me: <a href="mailto:kdhht5022@gmail.com"><code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24"/></code></a>
 
